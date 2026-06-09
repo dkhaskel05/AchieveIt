@@ -81,39 +81,4 @@ Designed specifically for students, AchieveIt goes beyond traditional task manag
 * Responsive Design
 * Flexbox & Grid Layout
 
----
-
-## 📂 Project Structure
-
-achieveit/
-│
-├── index.html
-├── README.md
-├── LICENSE
-├── sample-schedule.csv
-└── .gitignore
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository
-
-git clone https://github.com/yourusername/achieveit.git
-
-2. Open index.html in your browser
-
-3. Start organizing your student life efficiently
-
----
-
-## 🎓 Educational Purpose
-
-This project was developed as part of a Web Development assignment to demonstrate practical implementation of:
-
-* HTML Structure & Semantic Elements
-* CSS Styling & Responsive Design
-* JavaScript DOM Manipulation
-* Event Handling
-* Local Storage
-* Dynamic User Interfaces
+rfaces
