@@ -80,5 +80,3 @@ Designed specifically for students, AchieveIt goes beyond traditional task manag
 * Local Storage API
 * Responsive Design
 * Flexbox & Grid Layout
-
-rfaces
